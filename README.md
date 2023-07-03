@@ -53,10 +53,11 @@ CREATE TABLE `users` (
 ```
 
 Then, in api folder .env text file needs to be created to store these environment variables:
-DB_HOST - database url adress
-DB_USER - database user
-DB_PASSWORD - database password
-DB_NAME - schema name(blog)
+
+DB_HOST - database url adress,
+DB_USER - database user,
+DB_PASSWORD - database password,
+DB_NAME - schema name(blog),
 ALPHA_API_KEY - api key from https://www.alphavantage.co/
 
 Back-end application is stored in "api" folder and front-end application is in "client" folder.
