@@ -15,6 +15,7 @@ npm package manager or something alternative like yarn
 Disclaimer: front-end application should work without back-end application.
 
 First, mysql needs to be setup like this:
+
 schema: blog
 
 tables:
