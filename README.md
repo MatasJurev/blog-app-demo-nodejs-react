@@ -5,8 +5,8 @@ This is a sample project - simple blog website built with React and nodejs.
 
 # Prerequisites
 
-nodejs
-mysql server
+nodejs,
+mysql server,
 npm package manager or something alternative like yarn
 
 
