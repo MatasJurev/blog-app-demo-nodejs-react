@@ -12,7 +12,7 @@ npm package manager or something alternative like yarn
 
 # Quick start
 
-Disclaimer: front-end application should work without back-end application.
+## Disclaimer: front-end application should work without back-end application.
 
 First, mysql needs to be setup like this:
 
